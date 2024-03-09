@@ -25,3 +25,8 @@ git clone https://github.com/temitopewins/simple-app.git
 
 conda create ``name simpleappenv python=3.10-y
 ```
+4. Install needed python packages
+
+```
+pip install streamlit jupyter notebook=6.5.6 pandas numpy
+```
